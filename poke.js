@@ -44,7 +44,7 @@ function checkName() {
         poke();
     } else {
         result.textContent = "WOMP WOMP TRY AGAIN !!!";
-        poke();
+       
     }
 
 
